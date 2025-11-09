@@ -1,5 +1,5 @@
 save_frequency: 1
-name: "superclip_vit_b16_s512m_bs16k"
+name: "superclip_vit_l16_s512m_bs16k"
 train_data: '/datasets/datacomp_1b/data/{00000..128000}.tar' # please modify to your own path
 train_num_samples: 512_000_000
 dataset_type: webdataset
@@ -13,7 +13,7 @@ beta1: 0.9
 beta2: 0.98
 eps: 1.0e-6
 workers: 1
-model: "SuperCLIP-ViT-B-16"
+model: "SuperCLIP-ViT-L-16"
 seed: 0
 ddp_static_graph: true
 local_loss: true
