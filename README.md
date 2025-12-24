@@ -2,7 +2,7 @@
 
 <h1>SuperCLIP: CLIP with Simple Classification Supervision</h1>
 
-<b>Weiheng Zhao</b><sup>1</sup> · <b>Zilong Huang</b><sup>2</sup> · <b>Xinggang Wang</b><sup>1</sup> · <b>Jiashi Feng</b><sup>2</sup>
+<b>Weiheng Zhao</b><sup>1</sup> · <b>Zilong Huang</b><sup>2</sup> · <b>Jiashi Feng</b><sup>2</sup> · <b>Xinggang Wang</b><sup>1</sup>
 
 HUST Vision Lab<sup>1</sup> & Bytedance<sup>2</sup>
 
