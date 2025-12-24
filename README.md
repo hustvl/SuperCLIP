@@ -7,6 +7,7 @@
 HUST Vision Lab<sup>1</sup> & Bytedance<sup>2</sup>
 
 <a href="https://openreview.net/pdf?id=EeIEvZlmVg"><img src='https://img.shields.io/badge/Paper-OpenReview-blue' alt='Paper PDF'></a>
+<a href="https://huggingface.co/hustvl/SuperCLIP"><img src='https://img.shields.io/badge/Model-HuggingFace-orange' alt='Model HuggingFace'></a>
 
 
 </div>
@@ -32,7 +33,7 @@ It offers significant gains with only a **0.077% increase in FLOPs** and **no ex
 ## News
 
 - 2025-09-19: Accepted by NeurIPS 2025. [✔]
-- 2025-11-06: Code release. [✔]
+- 2025-11-06: Code released. [✔]
 
 ## Getting Started
 
