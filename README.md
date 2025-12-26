@@ -28,6 +28,7 @@ It offers significant gains with only a **0.077% increase in FLOPs** and **no ex
   - [Datasets](#datasets)
   - [Configuration](#configuration)
 - [Training](#training)
+- [Model Checkpoints](#model-checkpoints)
 - [Acknowledgments](#acknowledgments)
 
 ## News
@@ -69,7 +70,7 @@ Start SuperCLIP training with:
 bash train.sh <config_path> superclip
 ```
 
-## Model checkpoints
+## Model Checkpoints
 
 The models are available at https://huggingface.co/hustvl/SuperCLIP
 
