@@ -69,6 +69,12 @@ Start SuperCLIP training with:
 bash train.sh <config_path> superclip
 ```
 
+## Model checkpoints
+
+The models are available at https://huggingface.co/hustvl/SuperCLIP
+
+
+
 ## Acknowledgments
 
 Our codebase is built upon:
